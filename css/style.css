@@ -1,0 +1,19 @@
+nav{
+	background-color: #B58401;
+	width: 100%;
+	height:50px;
+	text-align: center;
+	padding: 25px;
+	margin:10px;
+}
+nav a:link {
+  color: red;
+}
+nav a:visited {
+  color: purple;
+}nav a:hover {
+  color: lightblue;
+}
+nav a:active {
+  color: blue;
+}
