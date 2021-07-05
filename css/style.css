@@ -17,3 +17,8 @@ nav a:visited {
 nav a:active {
   color: blue;
 }
+
+.footer{
+	background-color: #4b807f;
+	color: white;	
+}
